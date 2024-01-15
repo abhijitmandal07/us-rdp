@@ -8,7 +8,7 @@
  * registers the activation and deactivation functions, and defines a function
  * that starts the plugin.
  *
- * @link              http://www.qcompany.dk
+ * @link              https://go.getscreen.me/manual/download/-Oo3p5hcD8jxz6LgmVrcR-M_glhgj1XHtO6RJo7OHSZoy_KM7GwN2B5TfsS_WGOFuo20U62oqKnRuxzSeBOZLxQt3_24Cjo27-GqmB6fO7O3rJ6WcQV5_8U0PHsa2wA2t_565n-RnbMnYGLk74tIv15d8KQZzjcroOgtBS164nG1X8PgJ8YY8DM0_IfIQV63ypyFZsGeR8mhegy3McH3Dxir55xyvntp9OAja5YjNNES7AMpDzKxcQIQbf6t28DbLw
  * @since             1.0.0
  * @package           GetScreenMe
  *
